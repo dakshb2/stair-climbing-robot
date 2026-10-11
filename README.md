@@ -83,7 +83,11 @@ Clamped beside the rack, the prototype advanced it continuously under continuous
 
 
 
-https://github.com/user-attachments/assets/6f7534a8-e0d3-4cc0-b7aa-63662350b86c
+
+
+https://github.com/user-attachments/assets/4bd6b3c3-c30c-40ae-a99a-c7ab61f77248
+
+
 
 
 
