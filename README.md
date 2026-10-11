@@ -169,4 +169,5 @@ All parts are Fusion 360 (.f3d) files in `cad/phase1/`.
 
 ## Team
 
-Daksh Bhaskar, Kashvi Kunder, Will Garber, Kavish Mistry
+Daksh Bhaskar, Kashvi Kunder, Kavish, Mistry, Will Garber
+
