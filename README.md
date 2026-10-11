@@ -81,7 +81,11 @@ Process: cardboard linkage prototypes → coupler-curve simulation → single-le
 
 Clamped beside the rack, the prototype advanced it continuously under continuous cranking, with the two legs holding it against the spring between steps.
 
-[VIDEO]
+
+
+https://github.com/user-attachments/assets/6f7534a8-e0d3-4cc0-b7aa-63662350b86c
+
+
 
 ---
 
